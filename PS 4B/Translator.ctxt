@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Translator
+comment1.params=str
+comment1.target=void\ parseSentence(java.lang.String)
+comment2.params=str
+comment2.target=java.lang.String\ convertToPL(java.lang.String)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
